@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "debugpy",
+            "request": "launch",
+            "name": "Launch Streamlit App",
+            "module": "streamlit",
+            "args": [
+                "run",
+                "app.py",
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
