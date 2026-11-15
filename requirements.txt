@@ -14,7 +14,7 @@ attrs==25.3.0
     # via
     #   jsonschema
     #   referencing
-certifi==2025.1.31
+certifi==2026.10.18
     # via requests
 charset-normalizer==3.4.1
     # via requests
