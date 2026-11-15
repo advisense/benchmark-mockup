@@ -22,7 +22,7 @@ click==8.1.8
     # via streamlit
 gitdb==4.0.12
     # via gitpython
-gitpython==3.1.44
+gitpython==3.2.1
     # via streamlit
 idna==3.10
     # via requests
@@ -100,3 +100,5 @@ urllib3==2.3.0
     # via requests
 vega-datasets==0.9.0
     # via -r requirements.in
+watchdog==6.0.0
+    # via streamlit
